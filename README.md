@@ -1,6 +1,4 @@
-### Hi there 👋
-- I'm currently learning java
-- I am a student at Bilkent University
+### 
 <!--
 **BerinSu/BerinSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
